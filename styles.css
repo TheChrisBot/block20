@@ -1,0 +1,18 @@
+h1 {
+  background-color: cornflowerblue;
+  text-align: center;
+  margin: 10%;
+}
+
+body {
+  background-color: rgb(68, 204, 113);
+  border: 5px solid black;
+  border-radius: 15px;
+  margin: 5%;
+  font-size: 25px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
